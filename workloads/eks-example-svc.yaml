@@ -4,7 +4,7 @@ metadata:
   name: eks-example
   namespace: eks-example
   labels:
-    app: eks-example
+    app: eks-example22222
 spec:
   type: LoadBalancer
   ports:
